@@ -9,5 +9,8 @@
 - ↑ 방향키: 블럭 회전
 - ↓ 방향키: 빠르게 이동
 
+## 시연영상 (Click!)
+[![Video Label](https://i.ytimg.com/vi/XXsaqdR8KfU/maxresdefault.jpg)](https://youtu.be/XXsaqdR8KfU)  
+
 ## 스크린샷
 ![](https://github.com/HelloWoori/Tetris/blob/master/PlayScene.png)
