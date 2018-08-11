@@ -10,7 +10,7 @@
 - ↓ 방향키: 빠르게 이동
 
 ## 시연영상 (Click!)
-[![Video Label](https://i.ytimg.com/vi/XXsaqdR8KfU/maxresdefault.jpg)](https://youtu.be/XXsaqdR8KfU)  
+[![Video Label](https://i.ytimg.com/vi/ru1RxTmAlMQ/maxresdefault.jpg)](https://youtu.be/ru1RxTmAlMQ)  
 
 ## 스크린샷
 ![](https://github.com/HelloWoori/Tetris/blob/master/PlayScene.png)
